@@ -133,7 +133,7 @@ main{
     list-style: none;
     color: #bbbbbb;
     font-size: 24px;
-    margin-right: 5%;
+    padding-right:10px;
     font-weight: bold;
     display: inline-block;
 }
